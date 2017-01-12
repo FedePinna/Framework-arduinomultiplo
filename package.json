@@ -1,0 +1,7 @@
+{
+    "description":"Duinobot framework(AVR Core,1.5)",
+    "name":"framework-arduinomultiplo",
+    "system":"all",
+    "url":"http://arduino.cc/en/Reference/HomePage",
+    "version":"1.0.0"
+}
